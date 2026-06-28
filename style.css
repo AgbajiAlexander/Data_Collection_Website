@@ -29,3 +29,25 @@
     border-radius: 5px;
     background-color: white;
 }
+
+.top{
+    flex-direction: column;
+    height: 25dvh;
+    width: 100%;
+    background-color: rgb(130, 153, 89);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+
+}
+
+.top a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
